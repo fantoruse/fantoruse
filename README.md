@@ -6,6 +6,8 @@
 ## Description
 3rd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on Epitech
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about my code
