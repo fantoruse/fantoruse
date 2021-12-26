@@ -8,6 +8,8 @@
 
 [![fantoruse's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantoruse&include_all_commits=true&count_private=true)](https://github.com/fantoruse/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantoruse&ount_private=true)](https://github.com/fantoruse/github-readme-stats)
+
 - 🔭 I’m currently working on Epitech
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about my code
