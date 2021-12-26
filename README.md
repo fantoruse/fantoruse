@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### My Profile 👋
+<h1>
+  <p align="center">Clément Ruat </p>
+</h1>
 
 - 🔭 I’m currently working on Epitech
 - 🌱 I’m currently learning Solidity
