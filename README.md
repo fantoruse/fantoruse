@@ -4,7 +4,7 @@
 </h1>
 
 ## Description
-3rd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris. Interested in a lot of things !
+4rd year student and [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris. Interested in a lot of things !
 - 🔭 I’m currently working on Epitech
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about my code
