@@ -4,8 +4,7 @@
 </h1>
 
 ## Description
-4rd year student and was [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris. Interested in a lot of things !
-- 🔭 I’m currently working on Epitech
+Finish Epitech and was [_Astek_](https://www.epitech.eu/fr/actualites-evenements/lab-astek-art79/) at EPITECH Paris. Interested in a lot of things !
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about my code
 - 📫 How to reach me: clement1.ruat@epitech.eu
